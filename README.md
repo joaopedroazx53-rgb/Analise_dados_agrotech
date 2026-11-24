@@ -10,12 +10,9 @@ A AgroTech Solutions vai repassar esta análise para outra equipe. O objetivo do
 
 ### Integrantes
 
-- [Nome do integrante 1]
-- [Nome do integrante 2]
-- [Nome do integrante 3]
-- [Nome do integrante 4]
+- [João Pedro Sobral de Lima]
 
-**Disciplina:** [nome da disciplina]
+**Disciplina:** [Linguagem e Projeto de Banco de Dados]
 
 ### O que foi feito em cada parte
 
